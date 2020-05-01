@@ -1,5 +1,4 @@
-![Dice Flutter snap](dice-flutter.png)
-
+![Dice Flutter snap](/images/dice-flutter.png)
 
 # Dicee 🎲
 
