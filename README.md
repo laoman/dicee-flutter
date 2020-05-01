@@ -1,6 +1,6 @@
-![Dice Flutter snap](/images/dice-flutter.png)
-
 # Dicee 🎲
+
+![Dice Flutter snap](/images/dice-flutter.png)
 
 ## Our Goal
 
